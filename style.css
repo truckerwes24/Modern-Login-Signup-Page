@@ -21,10 +21,10 @@ body {
     padding-bottom: 30px;
 }
 #form-container-login {
-    background-image: url('/img/stack-waves-red.svg');
+    background-image: url('img/stack-waves-blue.svg');
 }
 #form-container-signup {
-    background-image: url('/img/stack-waves-blue.svg');
+    background-image: url('img/stack-waves-blue.svg');
 }
 #information {
     font-size: 14px;
